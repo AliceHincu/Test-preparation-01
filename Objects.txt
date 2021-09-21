@@ -1,0 +1,3 @@
+Mercedes-Benz|SUV|2013|blue
+Dacia|model1|2015|red
+Dacia|model2|2013|green
